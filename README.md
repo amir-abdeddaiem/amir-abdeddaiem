@@ -1,8 +1,7 @@
 ![logo](https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover1.jpeg)
 <h1 align="center">Hi 👋, I'm Amir Abdeddaiem</h1>
 <h3 align="center">A student passionate about technology and driven by programming challenges.</h3>
-
-![Coding Image](https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover2.gif)
+<img src='https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover2.gif' width='400' alt='Coding Image' align='right' style="border-radius:20px; box-shadow:1px 4px 5px black;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-abdeddaiem&label=Profile%20views&color=0e75b6&style=flat" alt="amir-abdeddaiem" /> </p>
 
