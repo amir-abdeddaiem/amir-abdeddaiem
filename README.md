@@ -1,7 +1,8 @@
 ![logo](https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover1.jpeg)
-
-# 💫 About Me:
+<br>
 <img src='https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover2.gif' width='400' alt='Coding Image' align='right' style="border-radius:20px; box-shadow:1px 4px 5px black;">
+# 💫 About Me:
+
 - 🔭 I’m currently working on **Quiz**
 
 - 🌱 I’m currently learning **Typescript**
