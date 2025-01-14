@@ -1,6 +1,7 @@
 ![logo](https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover1.jpeg)
-<img src='https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover2.gif' width='400' alt='Coding Image' align='right' style="border-radius:20px; box-shadow:1px 4px 5px black;">
+
 # 💫 About Me:
+<img src='https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover2.gif' width='400' alt='Coding Image' align='right' style="border-radius:20px; box-shadow:1px 4px 5px black;">
 - 🔭 I’m currently working on **Quiz**<br><br>- 🌱 I’m currently learning **Typescript**<br><br>- 👨‍💻 All of my projects are available at [https://amir-portfolio.com](https://amir-portfolio.com)<br><br>- 📫 How to reach me **amir.abdeddaiem@sfax.r-iset.tn**<br>
 
 
