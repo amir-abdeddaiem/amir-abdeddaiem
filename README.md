@@ -2,11 +2,8 @@
 <h1 align="center">Hi 👋, I'm Amir Abdeddaiem</h1>
 <h3 align="center">A student passionate about technology and driven by programming challenges.</h3>
 
-<div align="right">
-  <video width="300" height="200" controls>
-    <source src="https://github.com/user-attachments/assets/c747882a-3ef9-4539-8c90-092cf6d269e7" type="video/mp4">
-  </video>
-</div>
+img src='https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover2.gif' width='400' alt='Coding Image' align='right' class='ved' style="border-raduis:20px;
+  box-shadow:1px 4px 5px black;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-abdeddaiem&label=Profile%20views&color=0e75b6&style=flat" alt="amir-abdeddaiem" /> </p>
 
