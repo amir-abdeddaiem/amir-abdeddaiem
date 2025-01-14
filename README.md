@@ -1,3 +1,4 @@
+![logo](https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover1.jpeg)
 <h1 align="center">Hi 👋, I'm Amir Abdeddaiem</h1>
 <h3 align="center">A student passionate about technology and driven by programming challenges.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover.mp4" />
