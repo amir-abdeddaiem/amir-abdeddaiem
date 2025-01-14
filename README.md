@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-<img src='https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover2.gif' width='350' alt='Coding Image' align='right' style="border-radius:20px; box-shadow:1px 4px 5px black;">
+<img src='https://github.com/amir-abdeddaiem/amir-abdeddaiem/blob/main/cover2.gif' width='300' alt='Coding Image' align='right' style="border-radius:20px; box-shadow:1px 4px 5px black;">
 - 🔭 I’m currently working on **Quiz**
 
 - 🌱 I’m currently learning **Typescript**
