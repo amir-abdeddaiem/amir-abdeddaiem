@@ -5,7 +5,6 @@
 <div align="right">
   <video width="300" height="200" controls>
     <source src="https://github.com/user-attachments/assets/c747882a-3ef9-4539-8c90-092cf6d269e7" type="video/mp4">
-    Your browser does not support the video tag.
   </video>
 </div>
 
