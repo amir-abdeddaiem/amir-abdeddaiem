@@ -2,11 +2,12 @@
 <h1 align="center">Hi 👋, I'm Amir Abdeddaiem</h1>
 <h3 align="center">A student passionate about technology and driven by programming challenges.</h3>
 
-<p align="right">
-  <a href="https://github.com/user-attachments/assets/c747882a-3ef9-4539-8c90-092cf6d269e7" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/play--v1.png" alt="Video" width="40" />
-  </a>
-</p>
+<div align="right">
+  <video width="300" height="200" controls>
+    <source src="https://github.com/user-attachments/assets/c747882a-3ef9-4539-8c90-092cf6d269e7" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-abdeddaiem&label=Profile%20views&color=0e75b6&style=flat" alt="amir-abdeddaiem" /> </p>
 
